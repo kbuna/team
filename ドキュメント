@@ -1,7 +1,18 @@
 
 
 
-いくつかflaskライブラリをpip installする必要があるかもしれません。
 
 
+
+flaskをpip installする必要があるかもしれません。
+
+PC左下の検索から cmd 入力してコマンドプロンプトを探し、管理者として実行
+以下のコマンドを入力してEnter
+
+pip install flask
+
+①
+URL.pyをpython環境で実行
+②
+出てくるローカルURLにアクセス
 
